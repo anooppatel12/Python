@@ -1,3 +1,5 @@
+# Suggest an activity based on the weather(e.g., Sunny-Go for Walk, Rainy-Read a book, Snowy-Build a snowman).
+
 weather = input("Enter Current Weather:")
 
 
