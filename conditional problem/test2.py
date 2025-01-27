@@ -1,3 +1,5 @@
+#Movie Tickets are priced basedon age: $12 for adults(18 and over), $8 for children. Everyone gets a 2$ discount on wednesday.
+
 age = int(input("Enter Your age:"))
 day = str(input("Enter day:"))
 
